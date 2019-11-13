@@ -65,6 +65,7 @@ public class MenuServiceImpl implements MenuService {
 		button.setName("菜单");
 		button.setSub_button(new Button[] { button31, button32 });
 
+
 		menu.setButton(new Button[] { button11, button21, button });
 		
 		Gson gson = new Gson();
