@@ -91,12 +91,13 @@
             <artifactId>pinyin4j</artifactId>
             <version>2.5.1</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.dom4j/dom4j -->
         <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
-            <version>3.17</version>
-            <scope>compile</scope>
+            <groupId>org.dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>2.1.1</version>
         </dependency>
+
 
     </dependencies>
     <build>
